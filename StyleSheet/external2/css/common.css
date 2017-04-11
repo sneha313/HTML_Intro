@@ -1,0 +1,36 @@
+#LoginPage{
+	background:lightgreen;
+}
+#userlogin{
+	margin:auto;
+	padding:15px;
+	background:white;
+	border-radius:8px;
+}
+#userlogin caption{
+	color:orange;
+	Font-size;25px;
+	font-weight:bold;
+}
+.inputbox{
+	height:35px;
+	width:250px;
+	border-radius:3px;
+	border:1px solid skyblue;
+}
+.inputbox:focus{
+	border:2px solid red;
+}	
+button
+{
+	padding:5px;
+	color:orange;
+	background:green;
+	border-radius:7px;
+	border:1px solid green;
+	font-size:20px;
+	font-weight:bold;
+}
+button:hover{
+	color:red;
+}

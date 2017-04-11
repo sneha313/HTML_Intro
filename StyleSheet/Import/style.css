@@ -1,0 +1,13 @@
+#mainblock{height:600px;
+width:80%;
+background:skyblue;
+margin:auto;
+}
+.two{height:100px;background:orange;  text-align:center;}
+#three{width:20%; height:400px; background:red;float:left;}
+#four{width:80%; height:400px; background:white; float:left;}
+#clear{clear:both;}
+ul{list-style-type:none}
+ul li{display:inline; margin-left:30px;}
+ul li a{font-size:22px; font-weight:bold; color:green; text-decoration:none;}
+ul li a:hover{text-decoration:underline; color:blue;}

@@ -3,8 +3,8 @@ width:80%;
 background:skyblue;
 margin:auto;
 }
-.two{height:100px;background:orange;  text-align:center;}
-#three{width:20%; height:400px; background:red;float:left;}
+.two{height:100px;background:orange; text-align:center;}
+#three{width:20%; height:400px; background:red; float:left;}
 #four{width:80%; height:400px; background:white; float:left;}
 #clear{clear:both;}
 ul{list-style-type:none}

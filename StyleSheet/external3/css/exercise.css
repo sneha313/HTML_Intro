@@ -1,0 +1,19 @@
+.firstblock{
+	height:400px;
+	width:300px;
+	background:skyblue;
+	margin-right:50px;
+	display:inline;
+	float:left;
+}
+
+.secondblock{
+	height:400px;
+	width:300px;
+	background:orange;
+	display:inline;
+	float:left;
+}
+.clear{
+	clear:both;
+}

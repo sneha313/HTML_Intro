@@ -1,0 +1,60 @@
+#firstblock{
+	height:300px;
+	width:300px;
+	background:skyblue;
+	padding:10px;
+	margin:50px;
+	margin-right:10px;
+	margin-left:350px;
+	float:left;
+}
+
+#secondblock{
+	height:300px;
+	width:300px;
+	background:orange;
+	float:left;
+	margin:50px;
+	padding:10px;
+}
+#clear{
+	clear:both;
+}
+#main{
+	margin:auto;
+}
+#register
+{
+	padding:10px;
+	
+}
+#login{
+padding:10px;
+}
+table, th, td{
+	padding:5px;
+}
+.inputbox{
+border-radius:3px;
+border:1px solid green;
+height:30px;
+width:200px;
+padding:5px;
+}
+.inputbox:focus{
+	border:2px solid red;
+}
+button{
+padding:5px;
+color:black;
+background:grey;
+border:2px solid green;
+font-size:20px;
+font-weight:bold;
+border-radius:5px;
+
+}
+button:hover{
+	color:pink;
+	background:white;
+}
